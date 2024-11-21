@@ -35,7 +35,7 @@ var objc = JSON.parse($response.body);
       "is_infinite" : false,
       "active_since_ts" : "2023-09-26T05:56:06.980051Z",
       "subscription" : {
-        "uuid" : "彭于晏破解",
+        "uuid" : "vanda",
         "period" : "P1Y",
         "next_billing_ts" : null,
         "is_recurring" : true,
